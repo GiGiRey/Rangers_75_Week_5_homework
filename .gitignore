@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+
+rangers_env
+__pycache__
+.env
+migrations
+
